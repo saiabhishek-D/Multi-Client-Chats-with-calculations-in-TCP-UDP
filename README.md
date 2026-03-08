@@ -13,7 +13,9 @@ Simulation of multi-client chatting using TCP and UDP protocols in ns-3 with net
 ### How to Run
 cd ~/ns-allinone-3.42/ns-3.42
 ./ns3 run scratch/multi-client-udp
+
 ./ns3 run scratch/multi-client-tcp
+
 ./ns3 run scratch/multi-client-metrics
 
 ### Network Performance Results
